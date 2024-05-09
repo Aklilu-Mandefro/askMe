@@ -2,7 +2,7 @@
 
 This is an app where 13 intelligent chatbot experts are found in one place. You can ask the chatbots any type of questions related to their areas of expertise.
 
-## Areas that the chatbots are well-versed:
+#### Areas that the chatbots are well-versed:
 
 1. Research
 2. Computer
@@ -87,4 +87,4 @@ If you have a suggestion that would make this better, please fork the repo and
 create a pull request. You can also simply open an issue with the tag
 "enhancement".
 
-## Please give this repo a ⭐ if you found it helpful.
+### Please give this repo a ⭐ if you found it helpful.
