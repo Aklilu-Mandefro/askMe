@@ -1,4 +1,4 @@
-#Chatbot Application
+# Chatbot Application
 
 This is an app where 13 intelligent chatbot experts are found in one place. You can ask the chatbots any type of questions related to their areas of expertise.
 
@@ -21,11 +21,11 @@ This is an app where 13 intelligent chatbot experts are found in one place. You 
 
 ## Tech-stacks Used
 
+- Vanilla Javascript
 - Open AI
 - Chat GPT 3.5
-- Vanilla Javascript
 - HTML5
-- Css3 and
+- CSS3 and
 - A little PHP ( but optional)
 
 ## Installation
