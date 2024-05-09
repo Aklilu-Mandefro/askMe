@@ -68,40 +68,6 @@ This is an app where 13 intelligent chatbot experts are found in one place. You 
     <br/>
     <img src="img/img1.jpg" alt="img">
 
-3.  ### Customizing the project images
-
-    The chatbots images are in the thumb folder, in SVG format, you can add images in the format you want, I recommend images with a height of less than 600px, and png or svg.
-    <br/>
-    <img src="img/customizate.jpg">
-
-<br/>
-
-4.  ### Customizing the characters
-
-    You can configure the behavior of the characters by opening the config.json file
-    <br>
-
-    - <strong>name:</strong> Name of the character that will appear in the chat
-    - <strong>image:</strong> Character image path
-    - <strong>description:</strong> Description of the character that appears in the carousel
-    - <strong>welcome_message:</strong> Initial message that the character will send when opening the chat
-    - <strong>display_welcome_message:</strong> Configures whether the initial message will appear in the chat
-    - <strong>expert:</strong> Label that says what the character is expert at
-    - <strong>background_thumb_color:</strong> Character thumbnail background color
-    - <strong>training:</strong> Says what the character will be like, how he will behave, what tone he will use in his answer, write everything here in first person
-
-    <img src="img/img2.jpg"  class="th">
-
-    <br>
-
-### To add a new character:
-
-   <br>
-    add a comma in the penultimate json node, and just copy and paste a new node of json characters, and write their names and instructions.
- 
-    <br>
-    <img src="img/img3.jpg"  class="th">
-
 ## Badwords
 
 In the config.json file you can define if you want to use a filter for badwords.<br>
