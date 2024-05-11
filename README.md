@@ -68,7 +68,7 @@ This is an app where 13 intelligent chatbot experts are found in one place. You 
     <br/>
     <img src="img/img1.jpg" alt="img">
 
-  ##  [Preview live demo of the App](https://https://javascript-chatbot-application.vercel.app/)
+  ##  [Preview live demo of the App](https://javascript-chatbot-application.vercel.app/)
 
 ## Badwords
 
