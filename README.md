@@ -80,6 +80,9 @@ This filter is great if you want to prevent the user from typing certain words i
 <br>
 You can change list of badwords in json/badwords.json file.
 
+## Issues
+If you find an error while installing or using this app, kindly  visit the [Discussion](https://github.com/Aklilu-Mandefro/javascript-chatbot-app/discussions) or create an [issue](https://github.com/Aklilu-Mandefro/javascript-chatbot-app/issues).
+
 ## Contribute to this project
 
 Thank you for browsing this repo. Any contributions you make are **greatly
