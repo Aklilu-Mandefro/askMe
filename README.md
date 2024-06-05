@@ -1,6 +1,6 @@
-# Chatbot Application
+# askMe 
 
-This is an app where 13 intelligent chatbot experts are found in one place. You can ask the chatbots any type of questions related to their areas of expertise.
+askMe is a chatbot app where 13 intelligent experts are found in one place. You can ask the chatbots any type of questions related to their areas of expertise.
 
 #### Areas that the chatbots are well-versed:
 
