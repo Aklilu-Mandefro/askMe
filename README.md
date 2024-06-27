@@ -1,8 +1,7 @@
 # askMe 
+askMe is a chatbot app that you can ask any type of questions in a specific area of expertise and deep dive into that so that you can master it by asking as many questions as you want.
 
-askMe is a chatbot app where 13 intelligent experts are found in one place. You can ask the chatbots any type of questions related to their areas of expertise.
-
-#### Areas that the chatbots are well-versed:
+#### Areas that the chatbot is well-versed:
 
 1. Research
 2. Computer
