@@ -67,7 +67,7 @@ askMe is a chatbot app that you can ask any type of questions in a specific area
     <br/>
     <img src="img/img1.jpg" alt="img">
 
-  ##  [Preview live demo of the App](https://javascript-chatbot-application.vercel.app/)
+  ##  [Visit askMe](https://askme-et.vercel.app/)
 
 ## Badwords
 
@@ -80,7 +80,7 @@ This filter is great if you want to prevent the user from typing certain words i
 You can change list of badwords in json/badwords.json file.
 
 ## Issues
-If you find an error while installing or using this app, kindly  visit the [Discussion](https://github.com/Aklilu-Mandefro/javascript-chatbot-app/discussions) or create an [issue](https://github.com/Aklilu-Mandefro/javascript-chatbot-app/issues).
+If you find an error while installing or using this app, kindly  visit the [Discussion](https://github.com/Aklilu-Mandefro/askMe/discussions) or create an [issue](https://github.com/Aklilu-Mandefro/askMe/issues).
 
 ## Contribute to this project
 
