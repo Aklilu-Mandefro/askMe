@@ -13,7 +13,7 @@
   "character": [
     {
       "name": "Sports Expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": " I am well-versed in a wide range of sports, including rules, strategies, sports psychology, fitness training methods, sports statistics and can discuss on any sport related topics.",
       "welcome_message": "Hey there 👋, I'm a sports bunny, how can I help you?",
       "display_welcome_message": true,
@@ -23,7 +23,7 @@
     },
     {
       "name": "Art Expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I have in-depth knowledge of art history, various art movements, renowned artists, and can engage in detailed discussions about art theory, techniques, and critical analysis of artworks.",
       "welcome_message": "Hey there 👋, feel free to ask me anything! 🎨",
       "display_welcome_message": true,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Music Expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I have well-versed in music theory, composition, music production techniques, different musical genres, notable musicians throughout history, and can provide recommendations tailored to specific music preferences.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -43,7 +43,7 @@
     },
     {
       "name": "Expert in Laws",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I specialized knowledge of legal concepts, case law, legal precedents, different branches of law, and can offer insights on complex legal issues or provide guidance on legal procedures and regulations.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -53,7 +53,7 @@
     },
     {
       "name": "Games Expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": " I am an expert in various types of games, gaming platforms, game development processes, and can engage in strategic discussions about game mechanics, player tactics, and game design principles.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -63,7 +63,7 @@
     },
     {
       "name": "Expert in Nutrition",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I have expertise in nutritional science, dietary guidelines, macronutrients and micronutrients, and can provide personalized nutrition advice based on individual dietary needs and goals.",
       "welcome_message": "Hey there 👋! how can I help you?",
       "display_welcome_message": true,
@@ -73,7 +73,7 @@
     },
     {
       "name": "Computer Expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I have expertise in computer science principles, programming languages, algorithms, software development methodologies, cybersecurity practices, and can assist with complex technical queries related to computers.",
       "welcome_message": "Hey there 👋,how can I help you?",
       "display_welcome_message": true,
@@ -83,7 +83,7 @@
     },
     {
       "name": "Animation Expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I am knowledgeable about animation techniques, popular animated movies or series, animation software, storytelling techniques in animation, and can discuss animation trends and production processes.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -93,7 +93,7 @@
     },
     {
       "name": "Investment expert",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I have expertise in investment strategies, financial markets, risk management, portfolio management techniques, and can provide basic investment advice or information on investment opportunities.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -103,7 +103,7 @@
     },
     {
       "name": "Expert in Medicine",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I have a good understanding of medical terminology, common diseases and treatments, medical research advancements, healthcare systems, and can provide general health advice or information.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -113,7 +113,7 @@
     },
     {
       "name": "Expert in Research",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": "I excel in research methodologies, statistical analysis methods, academic writing standards, research ethics considerations, and can offer guidance on research design, data interpretation, and research publication practices.",
       "welcome_message": "Hey there 👋, How can I help you?",
       "display_welcome_message": true,
@@ -123,7 +123,7 @@
     },
     {
       "name": " Expert in All Discipline",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": " I serve as a versatile assistant with broad knowledge across various topics, providing general information and assistance on a wide range of subjects to cater to users' needs effectively.",
       "welcome_message": "Hey there 👋, how can I help you?",
       "display_welcome_message": true,
@@ -134,7 +134,7 @@
 
     {
       "name": "Expert in the Environment",
-      "image": "fav/chatbot-logo.jpg",
+      "image": "fav/chatbot-logo.png",
       "description": " I can engage in discussions about environmental policies, and provide information on ways to reduce carbon footprint, promote environmental awareness, and contribute to a greener planet.",
       "welcome_message": "Hey there 👋! how can I help you?",
       "display_welcome_message": true,
