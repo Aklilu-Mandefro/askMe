@@ -67,7 +67,7 @@ askMe is a chatbot app that you can ask any type of questions in a specific area
     <br/>
     <img src="img/img1.jpg" alt="img">
 
-  ##  [Visit askMe](https://askme-et.vercel.app/)
+  ##  [Visit askMe](https://askme-chatbot.vercel.app/)
 
 ## Badwords
 
