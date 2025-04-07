@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <title>Chatbot App - Expert in All Discipline</title> 
+    <meta name="theme-color" content="#1A85F8">
+    <meta property="og:title" content="askMe" />
+    <link rel="apple-touch-icon" sizes="180x180" href="fav/chatbot-logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="fav/chatbot-logo.png">
+    <!-- <link rel="icon" type="image/png" sizes="16x16" href="fav/chatbot-logo.jpg"> -->
+    <link rel="manifest" href="fav/site.webmanifest">
+  
+    
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style/foundation.min.css">
+    <link rel="stylesheet" href="style/stars.css" />
+    <link rel="stylesheet" href="style/app.css?v1-8" />    
+  
+ 
+</head>
+
+
+  <div id="chatModal" style="display:none;">
+
+    <section class="chat-container">
+            <div id="bg-star"><div id="stars"></div><div id="stars2"></div><div id="stars3"></div></div>
+              <div class="container-flex">
+                <span class="close-button">&#x2715; Close Chat</span>
+                  <div id="chat-frame">
+                    <span id="download-chat" onclick="handleDownload()"><img src="img/icon-download.svg" alt="Download Chat" title="Download Chat"> Download Chat</span>
+                    <span id="clean-chat" onclick="cleanChat()" style="display:none"><img src="img/icon-trash.svg" alt="Clear Chat" title="Clear Chat"> Clear <b>Chat</b></span>
+                    <div id="overflow-chat"></div><!--overflow-chat-->
+                  </div><!--chat-frame-->
+              <div class="chat-input">
+                <div class="input">
+                  <textarea name="chat" id="chat" placeholder="Type your message here" maxlength="200"></textarea>
+                </div>
+                <button class="submit btn-send-chat" tabindex="0"><span>Send</span></button>
+                <span class="character-typing">Wait, typing...</span>
+              </div><!--chat-input-->
+            </div><!--container-flex-->
+    </section>  
+
+  </div><!--chatModal-->
+
+<header>
+  <div class="grid-container">
+    <div class="grid-x">
+    <div class="cell"><img src="fav/chatbot-logo.png" alt="logo" class="logo"> <h3 class="logo-name">askMe</h3></div>
+    </div>
+  </div>
+</header>
+
+<section class="bg-blue">
+  <div id="bg-star"><div id="stars"></div><div id="stars2"></div><div id="stars3"></div></div>
+
+  <div class=" full margin-top-custom">
+ 
+      <div class="cell">
+        <h4 >Select an Expert to Get Started </h4>
+  
+    </div>
+  </div>
+
+  <div class="grid-container full">
+    <div class="grid-x">
+      
+      <div class="cell">
+        <div class="swiper swiperCharacters">
+          <div class="swiper-wrapper" id="load-character">
+             
+          </div>
+   
+          <div class="swiper-button-next swiper-button-next1"><img src="img/right.svg" alt="Right" title="Right"></div>
+          <div class="swiper-button-prev swiper-button-prev1"><img src="img/left.svg" alt="Left" title="Left"></div>
+
+       
+      </div>
+
+    </div>
+  </div>
+</section>
+    
+<section id="feedback"><span></span></section>
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/swiper-bundle.min.js"></script>
+<script src="js/vendor/foundation.min.js"></script>
+<script src="js/app.js?v1-6"></script>
+
+<footer class="dev-footer">Built with ❤️  <i class="fas fa-heart" style="color: #fb866a;" ></i>  By <a href="https://github.com/Aklilu-Mandefro/" target="_blank">Aklilu Mandefro</a></footer>
+
+  </body>
+</html>
